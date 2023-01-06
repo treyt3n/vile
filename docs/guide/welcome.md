@@ -19,7 +19,7 @@ to set a basic text welcome such as
 
 **3) set the welcome channel**
 
-`,welcome channel #channel`
+`,welcome channel #joins`
 
 
 more info for welcomes can be found with `,help welcome`
