@@ -12,6 +12,8 @@ Create embeds using [this](https://rival.rocks/embed)
 
 > {user.avatar} - users avatar
 
+> {user.color} - most dominant color of user's avatar
+
 > {user.joined_at} - users join timestamp
 
 > {user.created_at} - users created timestamp
