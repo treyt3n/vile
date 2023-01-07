@@ -36,4 +36,36 @@ Create embeds using [this](https://rival.rocks/embed)
 
 # LastFM Variables
 
-> soon
+> {track} - track name
+
+> {artist} - artist name
+
+> {user} - user tag
+
+> {avatar} - user avatar
+
+> {track.url} - track url
+
+> {artist.url} - artist url
+
+> {scrobbles} - scrobble amount
+
+> {track.image} - track cover
+
+> {lastfm.user} - lastfm user
+
+> {artist.plays} - artist play count
+
+> {track.plays} - track play count
+
+> {track.lower} - track name lowercase
+
+> {artist.lower} - artist name lowercase
+
+> {track.hyper.lower} - track hyperlink lowercase
+
+> {artist.hyper.lower} - artist hyperlink lowercase
+
+> {track.hyper} - track hyperlink
+
+> {artist.hyper} - artist hyperlink
