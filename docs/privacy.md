@@ -22,7 +22,7 @@ Vile Bot is committed to user privacy and does not expose or sell your data to a
 
 ## Data Usage
 
-Username and nickname changes are stored to provide functionality necessary for the `,names` command. Message content vectors are necessary to provide Wordcloud images that are used to visualized a user's most said words. All other items collected above are used to provide essential functionality of that bot for it to run stable.
+Username and nickname changes are stored to provide functionality necessary for the `,names` command. Message content vectors are necessary to provide Wordcloud images that are used to visualize a user's most said words. All other items collected above are used to provide essential functionality of that bot for it to run stable.
 
 ## Data Removal
 
