@@ -71,3 +71,7 @@ Create embeds using [this](https://rival.rocks/embed)
 > {track.hyper} - track hyperlink
 
 > {artist.hyper} - artist hyperlink
+
+> {track.color} - track image color
+
+> {artist.color} - artist image color
