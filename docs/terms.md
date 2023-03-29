@@ -1,6 +1,6 @@
 # Terms of Service
 
-By visiting ("Heist") or inviting ("Vile Bot") to your Discord server, you agree and consent to the terms displayed on this page including our policies (Privacy Policy). When we state "Vile," "we," "us," and "our" in these terms, we mean Vile. "Services" mean Vile's services that we offer to users.
+By visiting ("Vile") or inviting ("Vile Bot") to your Discord server, you agree and consent to the terms displayed on this page including our policies (Privacy Policy). When we state "Vile," "we," "us," and "our" in these terms, we mean Vile. "Services" mean Vile's services that we offer to users.
 
 If any information stated here seems/is misleading, please contact us immediately at discord.gg/KsfkG3BZ4h
 
